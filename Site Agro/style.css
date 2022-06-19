@@ -1,0 +1,30 @@
+.ali { 
+    text-align : center;
+}
+.conteiner{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.fundo{
+    background-image: url(images/close-up-picture-of-hand-holding-planting-the-seed-of-the-plant.jpg);
+}
+
+.content{
+    margin: 10px;
+    
+    max-width: 350px;
+    max-width: 350px;
+    
+    
+    
+}
+.imagem{
+    width: 350px;
+    height: 200px;
+    
+}
+.corpadrao{
+background-color: #006400;
+}
