@@ -11,13 +11,16 @@
     background-image: url(images/close-up-picture-of-hand-holding-planting-the-seed-of-the-plant.jpg);
 }
 
+.new{
+    background-image: url(images/banner_para_mais_eficiencia_pt.jpg);
+    font-weight: bold
+}
+
+
 .content{
     margin: 10px;
-    
     max-width: 350px;
-    max-width: 350px;
-    
-    
+
     
 }
 .imagem{
@@ -27,4 +30,27 @@
 }
 .corpadrao{
 background-color: #006400;
+}
+.cor{
+    color: #006400;
+    margin-bottom: 50px;
+    }
+
+ .footers{
+    padding: 100px;
+ }
+ .footersa{
+    padding-top: 40px;
+ }
+ font{
+    font-weight: 700;
+ }
+ 
+ .contente{
+    
+    max-width: 700px;
+    
+    
+    
+    
 }
