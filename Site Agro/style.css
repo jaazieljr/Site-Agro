@@ -7,8 +7,20 @@
     justify-content: center;
     
 }
+.conteiner-new{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
 .fundo{
     background-image: url(images/close-up-picture-of-hand-holding-planting-the-seed-of-the-plant.jpg);
+}
+
+.fundo-novo{
+    background-image: url(images/AGRO-PG-CONTATO-scaled.jpeg);
 }
 
 .new{
@@ -16,6 +28,10 @@
     font-weight: bold
 }
 
+.new-novo{
+    background-image: url(images/close-up-picture-of-hand-holding-planting-the-seed-of-the-plant.jpg);
+    font-weight: bold
+}
 
 .content{
     margin: 10px;
@@ -49,8 +65,27 @@ background-color: #006400;
  .contente{
     
     max-width: 700px;
-    
-    
+
+}
+.font-color{
+    color: #006400
     
     
 }
+.image-tam{
+    max-width: 400px;
+    max-height: 400px;
+}
+.margem{
+    margin-top: 10px;
+}
+.margem-new{
+    margin: 200px;
+}
+.maximo{
+    max-height: 350px;
+}
+ .tamanho{
+    margin: 200px;
+    
+ }
